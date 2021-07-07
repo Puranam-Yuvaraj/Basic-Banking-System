@@ -2,7 +2,7 @@
 
 $dbhost = "localhost";
 $dbuser = "root";
-$dbpass = "yuvi1711";
+$dbpass = "abcdef";
 $dbname = "customers";
 
 $connection = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
